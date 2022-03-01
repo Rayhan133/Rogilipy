@@ -1,6 +1,7 @@
-<p align="center"><a href="https://drive.google.com/file/d/1v3wmCkdgM5oO-PIUVB0FMafv5c88k2Hk/view" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://drive.google.com/file/d/1v3wmCkdgM5oO-PIUVB0FMafv5c88k2Hk/view" target="_blank"><img src="https://raw.githubusercontent.com/Rayhan133/Rogilipy/master/public/images/carouselImage/slider1.jpg" width="400"></a></p>
 
 ## About Rogilipy
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Homeopathy, also known as homeopathic medicine, which I have presented here as Rogilipy.Rogilipy is a pseudoscientific system of alternative medicine.It is a form of complementary and alternative medicine that uses very small amounts of natural substances, which in higher amounts may cause a disease or symptom.Rogilipy depends on 'let like be restored by like'.
+It was established by Samuel Hahnemann in the late eighteenth century, albeit comparative ideas existed before. Rogilipy became famous in the nineteenth century to a limited extent in light of its achievement in pestilences however declined during the greater part of the twentieth century.
 
